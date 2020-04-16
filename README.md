@@ -6,3 +6,4 @@ This is for a docker workflow
 - [x] Integrate with CircleCI 
 - [x] Create make file 
 - [x] Add python project requirements.txt 
+- [ ] Deploy to AWS 
